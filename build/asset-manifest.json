@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tn-design-construction/static/css/main.c2c4ceb5.chunk.css",
+    "main.js": "/tn-design-construction/static/js/main.d2518946.chunk.js",
+    "main.js.map": "/tn-design-construction/static/js/main.d2518946.chunk.js.map",
+    "runtime-main.js": "/tn-design-construction/static/js/runtime-main.993054c1.js",
+    "runtime-main.js.map": "/tn-design-construction/static/js/runtime-main.993054c1.js.map",
+    "static/css/2.64a99b10.chunk.css": "/tn-design-construction/static/css/2.64a99b10.chunk.css",
+    "static/js/2.77066798.chunk.js": "/tn-design-construction/static/js/2.77066798.chunk.js",
+    "static/js/2.77066798.chunk.js.map": "/tn-design-construction/static/js/2.77066798.chunk.js.map",
+    "index.html": "/tn-design-construction/index.html",
+    "precache-manifest.55915c2bde8b7076b9c776b5039f6938.js": "/tn-design-construction/precache-manifest.55915c2bde8b7076b9c776b5039f6938.js",
+    "service-worker.js": "/tn-design-construction/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/tn-design-construction/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.c2c4ceb5.chunk.css.map": "/tn-design-construction/static/css/main.c2c4ceb5.chunk.css.map",
+    "static/js/2.77066798.chunk.js.LICENSE": "/tn-design-construction/static/js/2.77066798.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.993054c1.js",
+    "static/css/2.64a99b10.chunk.css",
+    "static/js/2.77066798.chunk.js",
+    "static/css/main.c2c4ceb5.chunk.css",
+    "static/js/main.d2518946.chunk.js"
+  ]
+}
