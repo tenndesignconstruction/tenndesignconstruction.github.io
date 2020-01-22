@@ -2,7 +2,7 @@
   "name": "tn-design-construction",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://toddtrivisonno.github.io/tn-design-construction/",
+  "homepage": "https://tenndesignconstruction.github.io",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.26",
     "@fortawesome/free-brands-svg-icons": "^5.12.0",
