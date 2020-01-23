@@ -24,11 +24,11 @@ class App extends React.Component {
           <Navbar />
         </div>
         {/* <Jumbotron jumboImg="IMG_6885.jpg" /> */}
-        <Jumbotron jumboImg="IMG_2791.jpg" />
+        <Jumbotron jumboImg="img/blended/IMG_2791.jpg" />
         <div className="container p-2">
           <hr id="what-we-do" />
           <h2 className="text-center text-muted p-3">
-            <strong>TN Design & Construction</strong>, conveniently located south of Nashville, creates tailored residential and commercial construction projects, from renovations to new buildings.
+            <strong>TN Design & Construction</strong>, conveniently located south of Nashville, creates tailored residential and commercial construction projects, from custom renovations to entirely new spaces.
           </h2>
           <hr />
           <CardDeck />
