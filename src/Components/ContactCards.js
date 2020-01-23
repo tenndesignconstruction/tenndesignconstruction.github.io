@@ -14,7 +14,7 @@ class ContactCards extends React.Component {
                   <a href="tel:+1-615-487-6869" className="lead text-muted"> 615-487-6869</a>
                   </p>
                   <p className="lead text-muted"><FontAwesomeIcon icon="envelope" />
-                     <a href="mailto:mwnealtenn@gmail.com" target="_top" className="text-muted"> Send us an email</a>
+                     <a href="mailto:shawn@tndesignconstruction.com" target="_top" className="text-muted"> Send us an email</a>
                   </p>
                </div>
             </div>

@@ -16,8 +16,8 @@ class About extends React.Component {
                   <p className="card-text lead">
                      TN Design and Construction is a full-service general contractor, dedicated to bringing beautiful and unique construction ideas into reality.<br/>
                      Shawn Thweatt-Neal and Matthew Neal colloborate to create each project, with Shawn serving as lead designer and Matt managing the construction process.<br/><br/>
-                     For bidding or proposal requests, contact Matt Neal at <a href="mailto:matt@tndesignconstruction.com" target="_top" className="text-muted">matt@tndesignconstruction.com</a>
-                     Founded by Shawn Thweatt-Neal, 
+                     Together they bring years of experience to their work, and are dedicated to providing their clients with the highest-quality experience from concept to completion.<br/><br/>
+                     For inquiries, bidding, or proposal requests, contact Shawn Thweatt-Neal at <a href="mailto:shawn@tndesignconstruction.com" target="_top" className="text-muted"><small>shawn@tndesignconstruction.com</small></a>
                </p>
                </div>
             </div>

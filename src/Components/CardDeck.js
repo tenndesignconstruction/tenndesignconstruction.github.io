@@ -14,7 +14,7 @@ class CardDeck extends React.Component {
                   </Animated>
                   <div className="card-body">
                      <h5 className="card-title">Indoor</h5>
-                     <p className="card-text">Fugiat nostrud veniam id nulla commodo ipsum laboris dolor ullamco. Fugiat laborum nostrud aliquip cupidatat amet quis veniam in esse excepteur.</p>
+                     <p className="card-text">Whether you prefer modern styling, classic, or a hybrid of the two, we design rooms where you and your loved ones will want to spend your time.</p>
                      <a
                         className="btn btn-sm btn-outline-primary"
                         data-toggle="modal"
@@ -28,7 +28,7 @@ class CardDeck extends React.Component {
                   <img src="img/outdoor/IMG_2782.jpg" className="card-img-top" alt="Custom landscaping with putting green" />
                   <div className="card-body">
                      <h5 className="card-title">Outdoor</h5>
-                     <p className="card-text">Velit in cupidatat consectetur labore voluptate in duis nostrud Lorem fugiat commodo dolor. Aute minim et irure ipsum.</p>
+                     <p className="card-text">Utilizing the natural environment, we create appealing, functional, and festive outdoor settings, adaptable to a variety of uses.</p>
                      <a
                         className="btn btn-sm btn-outline-primary"
                         data-toggle="modal"
@@ -42,7 +42,7 @@ class CardDeck extends React.Component {
                   <img src="img/blended/blend.jpeg" className="card-img-top" alt="Outdoor living room amongst the trees" />
                   <div className="card-body">
                      <h5 className="card-title">Blended</h5>
-                     <p className="card-text">Eiusmod mollit duis aute aliqua elit sint irure nulla esse aute occaecat aute incididunt ex. Cillum esse ullamco velit sint sint aliqua culpa magna in velit sit laboris.</p>
+                     <p className="card-text">Combine the best of both worlds, with seamless spaces that bring the comfort of home together with the tranquility of nature.</p>
                      <a
                         className="btn btn-sm btn-outline-primary"
                         data-toggle="modal"
