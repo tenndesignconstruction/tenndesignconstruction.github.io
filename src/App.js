@@ -24,7 +24,7 @@ class App extends React.Component {
           <Navbar />
         </div>
         {/* <Jumbotron jumboImg="IMG_6885.jpg" /> */}
-        <Jumbotron jumboImg="img/blended/IMG_2791.jpg" />
+        <Jumbotron jumboImg="img/blended/IMG_2791.JPG" />
         <div className="container p-2">
           <hr id="what-we-do" />
           <h2 className="text-center text-muted p-3">
