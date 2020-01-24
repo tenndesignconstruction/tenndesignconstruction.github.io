@@ -78,13 +78,13 @@ class CardDeck extends React.Component {
                               <img src="img/indoor/IMG_6885.JPG" className="d-block w-100 img-thumbnail" alt="Custom kitchen" />
                            </div>
                            <div className="carousel-item">
-                              <img src="img/indoor/IMG_6886.JPG" className="d-block w-100 img-thumbnail" alt="Custom stairway " />
+                              <img src="img/indoor/IMG_6886.JPG" className="d-block w-100 img-thumbnail" alt="Custom kitchen " />
                            </div>
                            <div className="carousel-item">
-                              <img src="img/indoor/IMG_1023.JPG" className="d-block w-100 img-thumbnail" alt="ceiling accent" />
+                              <img src="img/indoor/IMG_1023.JPG" className="d-block w-100 img-thumbnail" alt="Ceiling accent" />
                            </div>
                            <div className="carousel-item">
-                              <img src="img/indoor/IMG_7458.JPG" className="d-block w-100 img-thumbnail" alt="ceiling accent" />
+                              <img src="img/indoor/IMG_7458.JPG" className="d-block w-100 img-thumbnail" alt="Custom Stairway" />
                            </div>
                         </div>
                         <a className="carousel-control-prev" href="#indoorCarousel" role="button" data-slide="prev">
