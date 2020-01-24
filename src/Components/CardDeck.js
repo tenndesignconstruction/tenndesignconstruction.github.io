@@ -157,22 +157,22 @@ class CardDeck extends React.Component {
                         </ol>
                         <div className="carousel-inner">
                            <div className="carousel-item active">
-                              <img src="img/blended/IMG_2791.JPG" className="d-block w-100 img-thumbnail" alt="Custom kitchen" />
+                              <img src="img/blended/IMG_2791.JPG" className="d-block w-100 img-thumbnail" alt="Open air living space" />
                            </div>
                            <div className="carousel-item">
-                              <img src="img/blended/IMG_3856.JPG" className="d-block w-100 img-thumbnail" alt="Custom kitchen" />
+                              <img src="img/blended/IMG_3856.JPG" className="d-block w-100 img-thumbnail" alt="Custom blended living space" />
                            </div>
                            <div className="carousel-item">
-                              <img src="img/blended/IMG_3857.JPG" className="d-block w-100 img-thumbnail" alt="Custom kitchen" />
+                              <img src="img/blended/IMG_3857.JPG" className="d-block w-100 img-thumbnail" alt="Fireplace" />
                            </div>
                            <div className="carousel-item">
-                              <img src="img/blended/IMG_6072.JPG" className="d-block w-100 img-thumbnail" alt="Custom kitchen" />
+                              <img src="img/blended/IMG_6072.JPG" className="d-block w-100 img-thumbnail" alt="Brick fireplace with wood storage" />
                            </div>
                            <div className="carousel-item">
-                              <img src="img/blended/IMG_7408.JPG" className="d-block w-100 img-thumbnail" alt="Custom kitchen" />
+                              <img src="img/blended/IMG_7408.JPG" className="d-block w-100 img-thumbnail" alt="Open air living space and trees" />
                            </div>
                            <div className="carousel-item">
-                              <img src="img/blended/IMG_7409.JPG" className="d-block w-100 img-thumbnail" alt="Custom kitchen" />
+                              <img src="img/blended/IMG_7409.JPG" className="d-block w-100 img-thumbnail" alt="Brick fireplace with wood storage" />
                            </div>
                         </div>
                         <a className="carousel-control-prev" href="#blendedCarousel" role="button" data-slide="prev">
